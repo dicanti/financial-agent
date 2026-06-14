@@ -1,0 +1,7 @@
+akshare
+polars
+openpyxl
+python-dotenv
+openai
+streamlit
+pandas
